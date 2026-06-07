@@ -1,0 +1,12 @@
+flask
+opencv-python
+ultralytics
+numpy
+pandas
+matplotlib
+seaborn
+flask-sqlalchemy
+flask-login
+werkzeug
+pillow
+scikit-learn
