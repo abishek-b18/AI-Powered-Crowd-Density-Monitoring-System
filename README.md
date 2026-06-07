@@ -273,34 +273,6 @@ Purpose:
 
 ---
 
-# ⚙ Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Crowd-Density-Monitoring-System.git
-```
-
-### Move to Project Directory
-
-```bash
-cd Crowd-Density-Monitoring-System
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Application
-
-```bash
-python app.py
-```
-
----
-
 # ▶ Usage
 
 1. Login to the system.
@@ -435,6 +407,4 @@ Crowd-Density-Monitoring-System/
 
 ---
 
----
 
-⭐ If you found this project useful, don't forget to star the repository!
